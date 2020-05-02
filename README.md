@@ -1,3 +1,5 @@
 # projeto-oficina-autopro
 
-<a hrer="https://koala-dev.github.io/projeto-oficina-autopro/.">Clique aqui </a>para ver no git pages.
+
+Clique aqui para ver no git pages.
+https://koala-dev.github.io/projeto-oficina-autopro/
