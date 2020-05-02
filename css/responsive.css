@@ -1,0 +1,35 @@
+/* Responsividade - header */
+@media (max-width:800px) and (min-width:715px) {
+    header h1{font-size: 180%;}
+}
+@media (max-width:715px) and (min-width:590px) {
+    header h1{display: none;}
+    .divNavbar{margin-right: 15%;}
+}
+@media (max-width:590px) {
+    header h1{display: none;}
+    .imgLogo{display: none;}
+    .divNavbar{margin-right: 15%;}
+}
+
+/* Responsividade - Sobre 
+*           OK
+*/
+
+/* Responsividade - Serviços */
+
+@media (max-width:749px){
+    .Servicos .card-group{
+        flex-direction: column;
+        align-items: center;
+    }
+    .Servicos .divServicos img{
+        width: 300px;
+        height: 300px;
+    }
+    .Servicos .divServicos img:hover{
+        width: 320px;
+        height: 320px;
+        margin-bottom: 25px;
+    }
+}
